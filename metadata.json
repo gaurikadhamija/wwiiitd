@@ -1,0 +1,6 @@
+{
+  "name": "WorthWhile | Campus Event Intelligence",
+  "description": "Discover, evaluate, verify, and compare campus events based on personalized relevance scores, organizer trust, student evidence, and time availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
